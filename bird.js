@@ -40,8 +40,8 @@ class Bird {
             this.originalHeight,
             this.x - 20,
             this.y - 12,
-            this.width * 1.5,
-            this.height * 1.5
+            this.width * 1.4,
+            this.height * 1.4
         );
     }
     flap() {
