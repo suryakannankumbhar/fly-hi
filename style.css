@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@100;300;400;500&display=swap');
 #canvas1 {
     position: absolute;
-    top: 55%;
+    top: 57.5%;
     left: 50%;
     transform: translate(-50%, -60%);
     width: 600px;
